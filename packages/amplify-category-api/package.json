@@ -10,8 +10,8 @@
     "lint-fix": "eslint . --fix"
   },
   "dependencies": {
-    "amplify-category-auth": "1.5.4",
-    "amplify-category-function": "1.4.4",
+    "amplify-category-auth": "1.12.0",
+    "amplify-category-function": "1.7.3",
     "amplify-category-storage": "1.6.4",
     "aws-sdk": "^2.391.0",
     "eslint": "^4.9.0",
