@@ -10,11 +10,11 @@
     "lint-fix": "eslint . --fix"
   },
   "dependencies": {
-    "amplify-category-auth": "1.5.4",
-    "amplify-category-function": "1.4.4",
-    "amplify-category-storage": "1.6.4",
+    "amplify-category-auth": "1.12.0",
+    "amplify-category-function": "1.12.0",
+    "amplify-category-storage": "1.13.0",
     "aws-sdk": "^2.391.0",
-    "eslint": "^4.9.0",
+    "eslint": "^10.0.0",
     "fs-extra": "^7.0.0",
     "graphql": "^0.13.2",
     "graphql-relational-schema-transformer": "1.0.4",
