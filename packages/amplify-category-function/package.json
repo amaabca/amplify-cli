@@ -4,8 +4,8 @@
   "main": "index.js",
   "description": "amplify-cli function plugin",
   "dependencies": {
-    "amplify-category-storage": "1.6.4",
-    "eslint": "^4.19.1",
+    "amplify-category-storage": "1.13.0",
+    "eslint": "^10.0.0",
     "fs-extra": "^7.0.0",
     "grunt": "^1.0.3",
     "grunt-aws-lambda": "^0.13.0",
