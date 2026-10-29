@@ -4,7 +4,7 @@
   "main": "index.js",
   "description": "amplify-cli interactions plugin",
   "dependencies": {
-    "amplify-category-auth": "1.5.4",
+    "amplify-category-auth": "1.12.0",
     "amplify-category-function": "1.4.4",
     "fs-extra": "^7.0.0",
     "fuzzy": "^0.1.3",
